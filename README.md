@@ -9,8 +9,11 @@ Welcome to the Airbnb Data Analysis Project! In this project, we dive into the r
 **Project Structure**
 
 **Data:** This folder contains the datasets used in the analysis.
+
 **Notebooks:** Jupyter notebooks are organized here, detailing the step-by-step analysis process.
+
 **Visualizations:** Visualizations generated during the analysis are stored here.
+
 **Reports:** Final reports, summaries, and presentations reside in this folder.
 
 **Data Sources**
